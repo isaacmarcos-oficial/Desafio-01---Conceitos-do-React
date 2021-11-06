@@ -1,8 +1,4 @@
 <h1 align="center">
-  to.do
-</h1>
-
-<h1 align="center">
   <img src="./.github/todo.png"/>
 </h1>
 
